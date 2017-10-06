@@ -1,0 +1,6 @@
+framework module ARLogging {
+  umbrella header "ARLogging-umbrella.h"
+
+  export *
+  module * { export * }
+}
